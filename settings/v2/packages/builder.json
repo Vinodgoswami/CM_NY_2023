@@ -1,0 +1,14 @@
+{
+  "splash-setting": {
+    "displayWatermark": false,
+    "url": "/Users/chicmic/Projects/CocosCreator/CM_NY_2023/assets/Textures/Splash/NYSplash.png",
+    "clearColor": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "totalTime": 1000,
+    "displayRatio": 1.2
+  }
+}
